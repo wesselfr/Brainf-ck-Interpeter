@@ -1,0 +1,12 @@
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\bin\Debug\Brainf_ck_IDE.exe.config
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\bin\Debug\Brainf_ck_IDE.exe
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\bin\Debug\Brainf_ck_IDE.pdb
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.csprojResolveAssemblyReference.cache
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.Form1.resources
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.Properties.Resources.resources
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.csproj.GenerateResource.Cache
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.exe
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.pdb
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.BrainfuckConsoleForm.resources
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.MemoryViewForm.resources
+d:\documenten\visual studio 2015\Projects\Brainf_ck_IDE\Brainf_ck_IDE\obj\Debug\Brainf_ck_IDE.HelperWindow.resources
